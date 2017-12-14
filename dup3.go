@@ -22,6 +22,6 @@ func main() {
 	}
 
 	for temp,n := range counts {
-		fmt.Printf("%d\t%s\n",n,temp)
+			fmt.Printf("%d\t%s\n",n,temp)
 	}
 }
